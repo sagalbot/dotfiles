@@ -1,0 +1,65 @@
+{
+  "editor.multiCursorModifier": "alt",
+  "editor.formatOnPaste": true,
+  "editor.fontSize": 16,
+  "editor.fontFamily": "Fira Code, Hasklig, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.minimap.enabled": false,
+  "editor.lineNumbers": "off",
+  "editor.codeLens": false,
+  "php.executablePath": "/usr/local/bin/php",
+  "debug.javascript.usePreview": false,
+  "workbench.colorCustomizations": {
+    "activityBarBadge.background": "#00BCD4",
+    "list.activeSelectionForeground": "#00BCD4",
+    "list.inactiveSelectionForeground": "#00BCD4",
+    "list.highlightForeground": "#00BCD4",
+    "scrollbarSlider.activeBackground": "#00BCD450",
+    "editorSuggestWidget.highlightForeground": "#00BCD4",
+    "textLink.foreground": "#00BCD4",
+    "progressBar.background": "#00BCD4",
+    "pickerGroup.foreground": "#00BCD4",
+    "tab.activeBorder": "#00BCD4"
+  },
+  "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "Github Light Theme",
+  "workbench.activityBar.visible": false,
+  "workbench.editor.showTabs": false,
+  "workbench.statusBar.visible": false,
+  "window.zoomLevel": 0,
+  "material-icon-theme.activeIconPack": "vue",
+  "debug.node.autoAttach": "on",
+  "npm.packageManager": "yarn",
+  "python.jediEnabled": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "tailwindCSS.emmetCompletions": true,
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "emmet.showAbbreviationSuggestions": false,
+  "emmet.triggerExpansionOnTab": true,
+  "breadcrumbs.enabled": false,
+  "timeline.pageSize": 0,
+  "explorer.openEditors.visible": 0,
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.5,
+  "terminal.integrated.cursorBlinking": false,
+  "terminal.integrated.cursorStyle": "line",
+  "eslint.run": "onSave",
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true
+  },
+  "editor.formatOnSave": true,
+  "eslint.format.enable": true,
+  "python.languageServer": "Microsoft",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  }
+}
+
